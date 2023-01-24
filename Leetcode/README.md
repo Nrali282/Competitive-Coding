@@ -29,6 +29,7 @@
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
@@ -36,6 +37,6 @@
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 29
+### Total Code Count : 30
 
 
