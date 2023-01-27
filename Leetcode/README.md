@@ -8,6 +8,7 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+- [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
 - [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
@@ -31,6 +32,7 @@
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
@@ -39,6 +41,6 @@
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 32
+### Total Code Count : 34
 
 
