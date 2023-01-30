@@ -25,6 +25,7 @@
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
+- [N-Queens](https://leetcode.com/problems/n-queens/)
 - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
@@ -39,10 +40,11 @@
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- [Subsets](https://leetcode.com/problems/subsets/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 36
+### Total Code Count : 38
 
 
