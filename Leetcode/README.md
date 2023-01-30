@@ -43,6 +43,6 @@
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 35
+### Total Code Count : 36
 
 
