@@ -25,6 +25,7 @@
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
+- [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
