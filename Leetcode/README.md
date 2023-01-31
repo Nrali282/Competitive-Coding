@@ -42,10 +42,12 @@
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - [Subsets](https://leetcode.com/problems/subsets/)
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 39
+### Total Code Count : 41
 
 
