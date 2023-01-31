@@ -5,6 +5,7 @@
 ### Going To Update This Repo Time To Time. Please Do Star the Repo if it ever helps you
 ### HYPERLINK To Code
 
+- [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
@@ -45,6 +46,6 @@
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 38
+### Total Code Count : 39
 
 
