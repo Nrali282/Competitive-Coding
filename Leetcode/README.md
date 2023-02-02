@@ -47,9 +47,10 @@
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
-### Total Code Count : 43
+### Total Code Count : 44
 
 
