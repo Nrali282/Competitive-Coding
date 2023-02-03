@@ -54,8 +54,9 @@
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 49
+### Total Code Count : 50
 
 
