@@ -39,12 +39,14 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
+- [Sort List](https://leetcode.com/problems/sort-list/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [String Compression](https://leetcode.com/problems/string-compression/)
 - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
@@ -57,6 +59,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 50
+### Total Code Count : 52
 
 
