@@ -47,6 +47,7 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -61,6 +62,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 54
+### Total Code Count : 55
 
 
