@@ -18,6 +18,7 @@
 - [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
+- [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [Gas Station](https://leetcode.com/problems/gas-station/)
 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [Insert Interval](https://leetcode.com/problems/insert-interval/)
@@ -62,6 +63,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 55
+### Total Code Count : 56
 
 
