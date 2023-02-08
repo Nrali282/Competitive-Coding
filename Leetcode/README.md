@@ -22,6 +22,7 @@
 - [Gas Station](https://leetcode.com/problems/gas-station/)
 - [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
 - [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -63,6 +64,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 56
+### Total Code Count : 57
 
 
