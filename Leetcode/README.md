@@ -35,6 +35,7 @@
 - [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 - [N-Queens](https://leetcode.com/problems/n-queens/)
 - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [Naming a Company](https://leetcode.com/problems/naming-a-company/)
 - [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
@@ -64,6 +65,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 57
+### Total Code Count : 58
 
 
