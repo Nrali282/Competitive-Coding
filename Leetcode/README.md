@@ -41,6 +41,7 @@
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
 - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
+- [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
@@ -51,6 +52,7 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
@@ -60,12 +62,13 @@
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 59
+### Total Code Count : 62
 
 
