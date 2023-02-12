@@ -32,6 +32,7 @@
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 - [N-Queens](https://leetcode.com/problems/n-queens/)
@@ -69,6 +70,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 62
+### Total Code Count : 63
 
 
