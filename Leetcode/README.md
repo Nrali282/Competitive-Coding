@@ -12,6 +12,7 @@
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
@@ -70,6 +71,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 63
+### Total Code Count : 64
 
 
