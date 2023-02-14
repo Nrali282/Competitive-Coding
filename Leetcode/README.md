@@ -5,6 +5,7 @@
 ### Going To Update This Repo Time To Time. Please Do Star the Repo if it ever helps you
 ### HYPERLINK To Code
 
+- [Add Binary](https://leetcode.com/problems/add-binary/)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
 - [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -71,6 +72,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 64
+### Total Code Count : 65
 
 
