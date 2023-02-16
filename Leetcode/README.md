@@ -33,6 +33,7 @@
 - [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
@@ -73,6 +74,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 66
+### Total Code Count : 67
 
 
