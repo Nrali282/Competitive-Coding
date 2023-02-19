@@ -11,6 +11,7 @@
 - [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -77,6 +78,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 70
+### Total Code Count : 71
 
 
