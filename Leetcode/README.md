@@ -58,6 +58,7 @@
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
@@ -78,6 +79,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 71
+### Total Code Count : 72
 
 
