@@ -63,6 +63,7 @@
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
@@ -79,6 +80,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 72
+### Total Code Count : 73
 
 
