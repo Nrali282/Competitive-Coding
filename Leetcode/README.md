@@ -25,6 +25,7 @@
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
 - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+- [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
@@ -87,6 +88,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 80
+### Total Code Count : 81
 
 
