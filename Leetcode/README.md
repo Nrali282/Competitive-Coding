@@ -18,6 +18,7 @@
 - [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+- [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
@@ -88,6 +89,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 81
+### Total Code Count : 82
 
 
