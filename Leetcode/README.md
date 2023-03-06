@@ -37,6 +37,7 @@
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -90,6 +91,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 83
+### Total Code Count : 84
 
 
