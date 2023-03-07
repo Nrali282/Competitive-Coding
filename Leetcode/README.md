@@ -52,6 +52,7 @@
 - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)
 - [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
+- [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)
 - [N-Queens](https://leetcode.com/problems/n-queens/)
 - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Naming a Company](https://leetcode.com/problems/naming-a-company/)
@@ -91,6 +92,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 84
+### Total Code Count : 85
 
 
