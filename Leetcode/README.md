@@ -8,8 +8,11 @@
 - [Add Binary](https://leetcode.com/problems/add-binary/)
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+- [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 - [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
@@ -17,6 +20,7 @@
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
@@ -44,6 +48,7 @@
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 - [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+- [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -66,6 +71,7 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
@@ -89,11 +95,12 @@
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 87
+### Total Code Count : 95
 
 
