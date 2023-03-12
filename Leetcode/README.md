@@ -56,6 +56,7 @@
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
 - [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
@@ -103,6 +104,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 96
+### Total Code Count : 97
 
 
