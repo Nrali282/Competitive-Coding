@@ -95,6 +95,7 @@
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
@@ -104,6 +105,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 97
+### Total Code Count : 98
 
 
