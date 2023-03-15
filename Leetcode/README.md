@@ -17,6 +17,7 @@
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+- [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -106,6 +107,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 99
+### Total Code Count : 100
 
 
