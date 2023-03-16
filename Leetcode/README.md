@@ -19,6 +19,7 @@
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 - [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
+- [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
@@ -107,6 +108,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 100
+### Total Code Count : 101
 
 
