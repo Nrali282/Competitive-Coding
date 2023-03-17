@@ -49,6 +49,7 @@ public:
         memset(children,0,sizeof(children));
     }
 };
+
 class Trie {
 public:
     Node* root;
