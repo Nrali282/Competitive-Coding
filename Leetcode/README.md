@@ -28,6 +28,7 @@
 - [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+- [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
@@ -109,6 +110,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 102
+### Total Code Count : 103
 
 
