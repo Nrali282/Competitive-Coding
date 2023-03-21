@@ -76,6 +76,7 @@
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
 - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
+- [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 - [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
@@ -112,6 +113,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 105
+### Total Code Count : 106
 
 
