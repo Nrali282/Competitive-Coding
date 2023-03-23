@@ -45,6 +45,8 @@
 - [IPO](https://leetcode.com/problems/ipo/)
 - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
@@ -115,6 +117,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 108
+### Total Code Count : 110
 
 
