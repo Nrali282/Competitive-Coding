@@ -61,6 +61,7 @@
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+- [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 - [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
@@ -123,6 +124,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 116
+### Total Code Count : 117
 
 
