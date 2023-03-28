@@ -72,6 +72,7 @@
 - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
+- [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
 - [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)
 - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
@@ -125,6 +126,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 118
+### Total Code Count : 119
 
 
