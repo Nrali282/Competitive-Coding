@@ -94,6 +94,7 @@
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
@@ -126,6 +127,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 119
+### Total Code Count : 120
 
 
