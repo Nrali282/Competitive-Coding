@@ -12,6 +12,7 @@
 - [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 - [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [Binary Search](https://leetcode.com/problems/binary-search/)
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
@@ -127,6 +128,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 120
+### Total Code Count : 121
 
 
