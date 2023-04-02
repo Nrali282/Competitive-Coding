@@ -116,6 +116,7 @@
 - [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
@@ -128,6 +129,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 121
+### Total Code Count : 122
 
 
