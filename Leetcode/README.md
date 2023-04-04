@@ -92,6 +92,7 @@
 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 - [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 - [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+- [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
@@ -130,6 +131,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 123
+### Total Code Count : 124
 
 
