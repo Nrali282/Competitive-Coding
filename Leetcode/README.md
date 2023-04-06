@@ -88,6 +88,7 @@
 - [Naming a Company](https://leetcode.com/problems/naming-a-company/)
 - [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
 - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
@@ -132,6 +133,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 125
+### Total Code Count : 126
 
 
