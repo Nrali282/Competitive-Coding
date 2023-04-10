@@ -60,6 +60,7 @@
 - [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+- [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -135,6 +136,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 128
+### Total Code Count : 129
 
 
