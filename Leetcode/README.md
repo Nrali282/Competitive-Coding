@@ -104,6 +104,7 @@
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
@@ -136,6 +137,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 129
+### Total Code Count : 130
 
 
