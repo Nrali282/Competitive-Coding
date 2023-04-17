@@ -58,6 +58,7 @@
 - [Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite/)
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 - [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+- [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
@@ -137,6 +138,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 130
+### Total Code Count : 131
 
 
