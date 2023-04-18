@@ -74,6 +74,7 @@
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)
@@ -138,6 +139,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 131
+### Total Code Count : 132
 
 
