@@ -68,6 +68,7 @@
 - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)
 - [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+- [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
 - [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
@@ -139,6 +140,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 132
+### Total Code Count : 133
 
 
