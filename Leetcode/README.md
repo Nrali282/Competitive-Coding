@@ -105,6 +105,7 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+- [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -141,6 +142,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 134
+### Total Code Count : 135
 
 
