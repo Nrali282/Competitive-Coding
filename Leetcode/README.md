@@ -124,6 +124,7 @@
 - [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
@@ -145,6 +146,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 138
+### Total Code Count : 139
 
 
