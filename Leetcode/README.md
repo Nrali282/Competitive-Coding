@@ -10,6 +10,7 @@
 - [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 - [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)
+- [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 - [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -149,6 +150,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 142
+### Total Code Count : 143
 
 
