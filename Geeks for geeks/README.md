@@ -5,13 +5,12 @@
 ### Going To Update This Repo Time To Time. Please Do Star the Repo if it ever helps you
 ### HYPERLINK To Code
 
-- [Asymmetric Swaps](https://www.codechef.com/JAN231D/problems/ARRSWAP)
-- [Far from origin](https://www.codechef.com/problems/FARFROMO)
-- [Negative Product](https://www.codechef.com/problems/NEGPROD)
-- [Overspeeding Fine](https://www.codechef.com/problems/FINE)
+- [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1)
+- [Perfect Sum Problem](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1)
+- [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)
 
 
 
-### Total Code Count : 04
+### Total Code Count : 03
 
 
