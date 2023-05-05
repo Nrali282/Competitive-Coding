@@ -112,6 +112,7 @@
 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+- [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 - [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
@@ -144,6 +145,7 @@
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 - [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [Target Sum](https://leetcode.com/problems/target-sum/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
@@ -153,6 +155,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 146
+### Total Code Count : 148
 
 
