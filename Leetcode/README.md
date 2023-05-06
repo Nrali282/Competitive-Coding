@@ -107,6 +107,7 @@
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
 - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+- [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
 - [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)
 - [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
@@ -155,6 +156,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 148
+### Total Code Count : 149
 
 
