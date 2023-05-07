@@ -49,6 +49,7 @@
 - [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
 - [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
 - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
@@ -156,6 +157,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 149
+### Total Code Count : 150
 
 
