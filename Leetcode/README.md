@@ -137,6 +137,7 @@
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
+- [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 - [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
@@ -160,6 +161,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 153
+### Total Code Count : 154
 
 
