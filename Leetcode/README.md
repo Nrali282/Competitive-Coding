@@ -35,6 +35,7 @@
 - [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
 - [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)
 - [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)
+- [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
@@ -161,6 +162,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 154
+### Total Code Count : 155
 
 
