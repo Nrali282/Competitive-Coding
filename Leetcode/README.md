@@ -108,6 +108,7 @@
 - [N-Queens](https://leetcode.com/problems/n-queens/)
 - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Naming a Company](https://leetcode.com/problems/naming-a-company/)
+- [New 21 Game](https://leetcode.com/problems/new-21-game/)
 - [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
@@ -169,6 +170,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 162
+### Total Code Count : 163
 
 
