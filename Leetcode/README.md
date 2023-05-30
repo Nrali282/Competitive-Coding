@@ -41,6 +41,7 @@
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/)
+- [Design HashSet](https://leetcode.com/problems/design-hashset/)
 - [Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
 - [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
@@ -172,6 +173,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 165
+### Total Code Count : 166
 
 
