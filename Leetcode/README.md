@@ -45,6 +45,7 @@
 - [Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [Design Underground System](https://leetcode.com/problems/design-underground-system/)
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
+- [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
 - [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
@@ -175,6 +176,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 168
+### Total Code Count : 169
 
 
