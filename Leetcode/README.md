@@ -21,6 +21,7 @@
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 - [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+- [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
@@ -179,6 +180,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 172
+### Total Code Count : 173
 
 
