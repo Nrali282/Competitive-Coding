@@ -93,6 +93,7 @@
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+- [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
@@ -184,6 +185,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 177
+### Total Code Count : 178
 
 
