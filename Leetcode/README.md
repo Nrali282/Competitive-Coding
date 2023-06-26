@@ -179,6 +179,7 @@
 - [Target Sum](https://leetcode.com/problems/target-sum/)
 - [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
 - [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)
 - [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 - [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
@@ -189,6 +190,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 182
+### Total Code Count : 183
 
 
