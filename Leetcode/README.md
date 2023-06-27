@@ -56,6 +56,7 @@
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
 - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+- [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
@@ -190,6 +191,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 183
+### Total Code Count : 184
 
 
