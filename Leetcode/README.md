@@ -21,6 +21,7 @@
 - [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+- [Buddy Strings](https://leetcode.com/problems/buddy-strings/)
 - [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 - [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
@@ -192,6 +193,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 185
+### Total Code Count : 186
 
 
