@@ -144,6 +144,7 @@
 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+- [Permutations](https://leetcode.com/problems/permutations/)
 - [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
@@ -195,6 +196,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 188
+### Total Code Count : 189
 
 
