@@ -158,6 +158,8 @@
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
@@ -196,6 +198,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 189
+### Total Code Count : 191
 
 
