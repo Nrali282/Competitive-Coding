@@ -145,6 +145,7 @@
 - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [Partition List](https://leetcode.com/problems/partition-list/)
 - [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
 - [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 - [Permutations](https://leetcode.com/problems/permutations/)
@@ -202,6 +203,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 195
+### Total Code Count : 196
 
 
