@@ -156,6 +156,7 @@
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
 - [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)
+- [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [Restore The Array](https://leetcode.com/problems/restore-the-array/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -203,6 +204,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 196
+### Total Code Count : 197
 
 
