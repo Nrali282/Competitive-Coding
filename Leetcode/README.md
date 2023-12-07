@@ -87,6 +87,7 @@
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+- [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
@@ -204,6 +205,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 197
+### Total Code Count : 198
 
 
