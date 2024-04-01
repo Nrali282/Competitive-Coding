@@ -89,6 +89,7 @@
 - [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
 - [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+- [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -205,6 +206,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 198
+### Total Code Count : 199
 
 
