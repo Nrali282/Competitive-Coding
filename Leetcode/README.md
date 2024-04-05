@@ -107,6 +107,7 @@
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+- [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 - [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
@@ -204,9 +205,10 @@
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 - [Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [Word Search](https://leetcode.com/problems/word-search/)
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 200
+### Total Code Count : 202
 
 
