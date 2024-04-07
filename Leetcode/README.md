@@ -203,6 +203,7 @@
 - [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
 - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
 - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
@@ -211,6 +212,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 204
+### Total Code Count : 205
 
 
