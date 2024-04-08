@@ -40,7 +40,7 @@ s[i] is '(', ')' or '*'.
 
 /*
 
-Solution 1 - Stack + visted array :
+Solution 1 - Using Stack:
 
 Time Complexity = O(n)
 Space Complexity = O(n)
@@ -87,7 +87,7 @@ public:
 
 /*
 
-Solution 1 - Stack:
+Solution 1 - Counting:
 
 Time Complexity = O(n)
 Space Complexity = O(1)
