@@ -166,6 +166,7 @@
 - [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 - [Restore The Array](https://leetcode.com/problems/restore-the-array/)
+- [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
@@ -214,6 +215,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 207
+### Total Code Count : 208
 
 
