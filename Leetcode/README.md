@@ -183,6 +183,7 @@
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
+- [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
 - [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
 - [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
@@ -216,6 +217,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 209
+### Total Code Count : 210
 
 
