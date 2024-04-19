@@ -143,6 +143,7 @@
 - [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
 - [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
 - [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)
+- [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
 - [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
 - [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 - [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
@@ -218,6 +219,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 211
+### Total Code Count : 212
 
 
