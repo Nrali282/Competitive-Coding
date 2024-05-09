@@ -33,6 +33,7 @@
 - [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)
 - [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)
+- [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 - [Concatenated Words](https://leetcode.com/problems/concatenated-words/)
 - [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 - [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
@@ -47,6 +48,7 @@
 - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 - [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
+- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 - [Design HashSet](https://leetcode.com/problems/design-hashset/)
@@ -55,6 +57,7 @@
 - [Detect Capital](https://leetcode.com/problems/detect-capital/)
 - [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)
 - [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+- [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)
 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
@@ -92,6 +95,7 @@
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
 - [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)
+- [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)
 - [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
@@ -108,6 +112,7 @@
 - [Make The String Great](https://leetcode.com/problems/make-the-string-great/)
 - [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+- [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)
 - [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
 - [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
@@ -163,6 +168,8 @@
 - [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
 - [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+- [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+- [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Reorder List](https://leetcode.com/problems/reorder-list/)
@@ -172,6 +179,7 @@
 - [Restore The Array](https://leetcode.com/problems/restore-the-array/)
 - [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [Same Tree](https://leetcode.com/problems/same-tree/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
@@ -220,6 +228,6 @@
 - [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 
-### Total Code Count : 213
+### Total Code Count : 221
 
 
